@@ -1,0 +1,38 @@
+[
+    {
+      "typegame": 1,
+      "color": "C1ff9933",
+      "maxonline": 100,
+      "name": "Москва",
+      "nametwo": "Игра в жанре Ролеплей. Симулятор реальной жизни.",
+      "online": 10,
+      "recommend": true,
+      "volga_host": "51.91.91.83",
+      "volga_port": 7777,
+      "id": 1
+    },
+    {
+      "typegame": 2,
+      "color": "C100bd52",
+      "maxonline": 30,
+      "name": "Выжить в Москве",
+      "nametwo": "Игра в жанре Выживания. Попробуй выжить один или с друзьями.",
+      "online": 5,
+      "recommend": false,
+      "volga_host": "213.32.120.122",
+      "volga_port": 7777,
+      "id": 2
+    },
+    {
+      "typegame": 1,
+      "color": "C1bdbdbd",
+      "maxonline": 50,
+      "name": "Тестовый",
+      "nametwo": "Данный сервер недоступен для игры!",
+      "online": 1,
+      "recommend": false,
+      "volga_host": "5.196.112.104",
+      "volga_port": 7700,
+      "id": 3
+    }
+]
