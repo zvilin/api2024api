@@ -1,0 +1,35 @@
+{
+  "LAUNCHER_VERSION" : 158,
+  "MODPACK_VERSION" : "hash133.txt",
+  "URL_GAME_FILES" : "http://cdn.volgarp.online/api2024/files/upd/zima/cache.7z",
+  "URL_CLIENT": "-",
+  "SIZE_CLIENT": "49MB",
+  "SIZE_MODPACK": "719MB",
+  "CHECK_INTERNET": 1,
+  "ACTIVE_BONUS": 1,
+  "TITLE_BONUS": "Бонус", 
+  "TEXT_BONUS": "Не забываем про бонус! Промокод: VOOPEN",
+  "ACTIVE_NEWS": 1,
+  "TITLE_NEWS": "Внимание!",
+  "TEXT_NEWS": "Поздравляем с Новым 2025 Годом. Желаем приятной игры!"
+}
+
+/*
+ПАМЯТКА ДЛЯ ИСПРАВЛЕНИЯ 
+
+  "LAUNCHER_VERSION" : 151,  НЕ ИСПРАВЛЯТЬ!!!!! Чек для обновления APK
+  "MODPACK_VERSION" : "hash132.txt", НЕ ИСПРАВЛЯТЬ!!!!!Чек для обновления модпака
+  "URL_GAME_FILES" : "http://cdn.volgarp.online/api2024/files/cache.7z",  НЕ ИСПРАВЛЯТЬ!!!!! ссылка на модпак
+  "URL_CLIENT": "-", ссылка на клиент, нет потому что через RuStore пока что
+  "SIZE_CLIENT": "28MB", - Размер обновления APK
+  "SIZE_MODPACK": "626MB", - Размер обновления Модпака
+  "CHECK_INTERNET": 1, - Для лаунчера для проверки на интернет НЕ МЕНЯТЬ ЗНАЧЕНИЕ!!!
+  
+  НОВОСТИ И БОНУС
+  "ACTIVE_BONUS": 1, - АКТИВНОСТЬ БОНУСА (1 - активен / 0 - скрыто окошко бонуса)
+  "TITLE_BONUS": "Бонус", 
+  "TEXT_BONUS": "Не забываем про бонус! Промокод: VOOPEN",
+  "ACTIVE_NEWS": 1, - АКТИВНОСТЬ Срочной новости (1 - активен / 0 - скрыто окошка бонуса)
+  "TITLE_NEWS": "Внимание!",
+  "TEXT_NEWS": "Вышло обновление игры до версии 155. Желаем приятной игры!"
+*/
